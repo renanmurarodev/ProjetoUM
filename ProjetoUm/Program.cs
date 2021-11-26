@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Serie meuObjeto = new Serie();
+            Serie meuObjeto = new Serie();            
         }
     }
 }
