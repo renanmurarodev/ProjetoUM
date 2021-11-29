@@ -7,6 +7,7 @@ namespace ProjetoUm
         private string Titulo { get; set; }
         private string Descricao { get; set; }
         private int Ano { get; set; }
+        private bool Excluido { get; set;} 
         
     
         // Métodos
@@ -19,6 +20,7 @@ namespace ProjetoUm
             this.Titulo = titulo;
             this.Descricao = descricao;
             this.Ano = ano;
+            this.Excluido = false;
         }
 
         public override string ToString()
@@ -42,6 +44,10 @@ namespace ProjetoUm
         public int retornaID()
         {
           return this.Id;
+        }
+        public void Excluir()
+        {
+            this.Excluido = true;
         }
         
     }
