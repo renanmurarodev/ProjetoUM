@@ -1,0 +1,15 @@
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.csproj.AssemblyReference.cache
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.AssemblyInfoInputs.cache
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.AssemblyInfo.cs
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.csproj.CoreCompileInputs.cache
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ProjetoUm.exe
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ProjetoUm.deps.json
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ProjetoUm.runtimeconfig.json
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ProjetoUm.dll
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ref\ProjetoUm.dll
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\bin\Debug\net6.0\ProjetoUm.pdb
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.dll
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ref\ProjetoUm.dll
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.pdb
+D:\Drive Renan\Estudos\DIO TI\Projeto01\ProjetoUm\obj\Debug\net6.0\ProjetoUm.genruntimeconfig.cache

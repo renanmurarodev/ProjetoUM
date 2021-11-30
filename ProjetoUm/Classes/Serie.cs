@@ -29,7 +29,8 @@ namespace ProjetoUm
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
             retorno += "Título: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Início: " + this.Ano;
+            retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
+            retorno += "Excluído: " + this.Excluido;
             return retorno;
 
             // Environment.NewLine: interpreta como o SO vai criar uma nova linha, evitando ter que descobrir qual o comando certo para uma nova linha.
@@ -41,10 +42,16 @@ namespace ProjetoUm
             return this.Titulo; 
         }
 
-        public int retornaID()
+        public int retornaId()
         {
           return this.Id;
         }
+
+        public bool retornaExcluido()
+        {
+          return this.Excluido;
+        }
+        
         public void Excluir()
         {
             this.Excluido = true;
